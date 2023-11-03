@@ -58,3 +58,7 @@
 <img src="https://raw.githubusercontent.com/BryanFRD/BryanFRD/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=BryanFRD&label=Profile%20Views&color=0&icon=2&pretty=false" />
+</a>
