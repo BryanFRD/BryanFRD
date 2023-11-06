@@ -60,5 +60,5 @@
 ###
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=BryanFRD&label=Profile%20Views&color=0&icon=2&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=BryanFRD&label=Profile%20Views&color=0&icon=2&pretty=true" />
 </a>
