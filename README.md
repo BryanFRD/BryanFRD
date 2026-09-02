@@ -1,67 +1,29 @@
-<h2 align="left">Hi 👋! My name is Bryan and I'm a student at Epitech</h2>
+![Bryan Ferrando](banner.png)
 
-###
+[![Website](https://img.shields.io/badge/bryan--ferrando.fr-00FF88?logo=firefoxbrowser&logoColor=080808&labelColor=080808)](https://bryan-ferrando.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-ferrando/)
+[![Sponsor](https://img.shields.io/badge/sponsor-EA4AAA?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/BryanFRD)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BryanFRD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BryanFRD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Full-stack developer. Apprentice at Magellan on public sector software, MSc student at Epitech.
+I build developer tooling under [FerrLabs](https://github.com/FerrLabs), usually because the tool
+I wanted did not exist yet.
 
-###
+## What I build
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="30" alt="sequelize logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="30" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-</div>
+| Project | What it does |
+| --- | --- |
+| [FerrFlow](https://ferrflow.com) | Universal semantic versioning. One Rust binary reads your commits, bumps 16 version file formats, writes the changelog and cuts the release. |
+| [LFSX](https://lfsx.dev) | A fast, lightweight, secure Git LFS server, self-hostable, with GitHub-backed auth. |
+| [IdleWarden](https://idlewarden.com) | Extensible automation platform for single-player idle games on Windows. Plugins, signed updates, no anti-cheat circumvention. |
+| [FerrGames](https://ferrgames.com) | Multiplayer party games in the browser. No install, no account, open a room and share the link. |
+| [Portfolio](https://github.com/BryanFRD/Portfolio) | This website: Angular SSR frontend, Rust API, shipped to my cluster by GitOps. |
 
-###
+## Stack
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/bryan-ferrando/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://github.com/sponsors/BryanFRD" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Sponsor&logo=githubsponsors&label=&color=EA4AAA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github sponsors logo"  />
-  </a>
-</div>
+Rust and Axum on the backend, TypeScript with Angular or React on the frontend, Java and C# when
+the project calls for it. PostgreSQL, Docker, Kubernetes reconciled by Flux.
 
-###
+## Elsewhere
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/BryanFRD/BryanFRD/output/snake.svg" alt="Snake animation" />
-
-###
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=BryanFRD&label=Profile%20Views&color=0&icon=2&pretty=true" />
-</a>
+- [bryan-ferrando.fr](https://bryan-ferrando.fr) for the full portfolio
+- [linkedin.com/in/bryan-ferrando](https://www.linkedin.com/in/bryan-ferrando/)
