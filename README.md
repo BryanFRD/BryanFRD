@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-ferrando/)
 [![Sponsor](https://img.shields.io/badge/sponsor-EA4AAA?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/BryanFRD)
 
-Full-stack developer. Apprentice at Magellan on public sector software, MSc student at Epitech.
+Full-stack developer. Software Engineer at [Magellan](https://www.magellangroup.eu/) on public sector software, MSc student at Epitech.
 I build developer tooling under [FerrLabs](https://github.com/FerrLabs), usually because the tool
 I wanted did not exist yet.
 
