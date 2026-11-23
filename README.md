@@ -14,7 +14,6 @@ I wanted did not exist yet.
 | --- | --- |
 | [FerrFlow](https://ferrflow.com) | Universal semantic versioning. One Rust binary reads your commits, bumps 16 version file formats, writes the changelog and cuts the release. |
 | [LFSX](https://lfsx.dev) | A fast, lightweight, secure Git LFS server, self-hostable, with GitHub-backed auth. |
-| [IdleWarden](https://idlewarden.com) | Extensible automation platform for single-player idle games on Windows. Plugins, signed updates, no anti-cheat circumvention. |
 | [FerrGames](https://ferrgames.com) | Multiplayer party games in the browser. No install, no account, open a room and share the link. |
 | [Portfolio](https://github.com/BryanFRD/Portfolio) | This website: Angular SSR frontend, Rust API, shipped to my cluster by GitOps. |
 
